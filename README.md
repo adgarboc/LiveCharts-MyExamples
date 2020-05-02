@@ -1,2 +1,2 @@
 # LiveCharts-MyExamples
-Repo to experiment with LiveCharts
+Repo to experiment with [LiveCharts](https://lvcharts.net)
